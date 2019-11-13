@@ -1,0 +1,32 @@
+
+body { 
+  font-size: 100%;
+  background-image: url("https://forum.affinity.serif.com/uploads/monthly_2018_04/Marble_Wallpaper.jpg.e10b077a61a551b5d0513cf0d9cdfeba.jpg");
+    background-repeat: no-repeat;
+  
+  
+  }
+  
+  .destinySampleClass {font-size:300%;
+  font-color:;
+  background-image: url("https://media0.giphy.com/media/xUA7aLPYKkcFevVU64/giphy.gif");
+    background-repeat: no-repeat;
+  border: 10px;
+ border-style: outset;
+background-color:;
+font-family: cursive;Florence; }
+
+.eatSampleClass {
+  font-size: 300px%;
+  font-family:Comic Sans MS;
+  border: 3px solid #4C3C1B;
+  padding: 8px 80px 8px 8px;
+  width: 300px;
+  
+}
+.nati {
+  font-size: 160%;
+  font-family: Courier;
+}
+}
+
